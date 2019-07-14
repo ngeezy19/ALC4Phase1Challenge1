@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC4Phase1</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="my_profile">MY PROFILE</string>
+    <string name="about_title">THE ANDELA LEARNING COMMUNITY</string>
+    <string name="community_empowering">A community empowering the next generation of African technology leaders.</string>
+    <string name="join_us">Join us!</string>
+    <string name="text_about_body">The Andela Learning Community is a network of people technologists and tech enthusiasts across Africa dedicated to learning how to use technology to solve humanity’s problems. The ALC facilitates your learning through the aid of guided mentorship from super awesome learning community ambassadors. Our goal is to provide an ever-growing population of aspiring technologists with the resources and environments they need to become world-class problem solvers.</string>
+    <string name="profile_ngozi">Ngozi Njeze</string>
+    <string name="profile_pix">Profile picture</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="my_email">Email: ngozinjeze@gmail.com</string>
+    <string name="my_phone_number">Phone Number: 2349090977900</string>
+    <string name="slack_username">Slack Username</string>
+    <string name="notification_error_ssl_cert_invalid">SSL Error: Give permission to proceed</string>
+</resources>
